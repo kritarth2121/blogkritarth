@@ -37,7 +37,7 @@ Pillow==7.0.0
 psycopg2==2.8.5
 pygeocoder==1.2.5
 pyparsing==2.4.7
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 python-dateutil==2.8.1
 python-http-client==3.2.7
 pytz==2019.2
